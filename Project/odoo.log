@@ -1,0 +1,27 @@
+2023-03-27 13:45:09,410 8792 INFO ? odoo: Odoo version 15.0-20230327 
+2023-03-27 13:45:09,410 8792 INFO ? odoo: Using configuration file at C:\Users\84914\OneDrive\Desktop\odoo\server\odoo.conf 
+2023-03-27 13:45:09,410 8792 INFO ? odoo: addons paths: ['C:\\Users\\84914\\OneDrive\\Desktop\\odoo\\server\\odoo\\addons', 'c:\\users\\84914\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\84914\\onedrive\\desktop\\odoo\\server\\odoo\\addons'] 
+2023-03-27 13:45:09,410 8792 INFO ? odoo: database: openpg@localhost:5432 
+2023-03-27 13:45:09,780 8792 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\84914\OneDrive\Desktop\odoo\thirdparty\wkhtmltopdf.exe 
+2023-03-27 13:45:10,416 8792 INFO ? odoo.service.server: Initiating shutdown 
+2023-03-27 13:45:10,416 8792 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-03-27 13:45:11,765 5808 INFO ? odoo: Odoo version 15.0-20230327 
+2023-03-27 13:45:11,766 5808 INFO ? odoo: Using configuration file at C:\Users\84914\OneDrive\Desktop\odoo\server\odoo.conf 
+2023-03-27 13:45:11,766 5808 INFO ? odoo: addons paths: ['C:\\Users\\84914\\OneDrive\\Desktop\\odoo\\server\\odoo\\addons', 'c:\\users\\84914\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\84914\\onedrive\\desktop\\odoo\\server\\odoo\\addons'] 
+2023-03-27 13:45:11,766 5808 INFO ? odoo: database: openpg@localhost:5432 
+2023-03-27 13:45:11,880 5808 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\84914\OneDrive\Desktop\odoo\thirdparty\wkhtmltopdf.exe 
+2023-03-27 13:45:12,034 5808 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1J8O511:8069 
+2023-03-27 13:45:16,098 5808 INFO ? odoo.sql_db: Connection to the database failed 
+2023-03-27 13:45:20,146 5808 INFO ? odoo.sql_db: Connection to the database failed 
+2023-03-27 13:51:23,971 5808 INFO ? odoo.service.server: Initiating shutdown 
+2023-03-27 13:51:23,971 5808 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-03-27 13:51:24,155 5808 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2023-03-27 13:56:05,356 8808 INFO ? odoo: Odoo version 15.0-20230327 
+2023-03-27 13:56:05,356 8808 INFO ? odoo: Using configuration file at C:\Users\84914\OneDrive\Desktop\odoo\server\odoo.conf 
+2023-03-27 13:56:05,356 8808 INFO ? odoo: addons paths: ['C:\\Users\\84914\\OneDrive\\Desktop\\odoo\\server\\odoo\\addons', 'c:\\users\\84914\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\users\\84914\\onedrive\\desktop\\odoo\\server\\odoo\\addons'] 
+2023-03-27 13:56:05,356 8808 INFO ? odoo: database: openpg@localhost:5432 
+2023-03-27 13:56:05,472 8808 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Users\84914\OneDrive\Desktop\odoo\thirdparty\wkhtmltopdf.exe 
+2023-03-27 13:56:05,626 8808 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-1J8O511:8069 
+2023-03-27 13:56:14,440 8808 INFO ? odoo.service.server: Initiating shutdown 
+2023-03-27 13:56:14,440 8808 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2023-03-27 13:56:14,759 8808 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
